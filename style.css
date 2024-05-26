@@ -1,0 +1,224 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width: 900px;
+    height: 100%;
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cima{
+    display: flex;
+
+}
+img{
+    padding: 5px 2px 0 5px;
+
+}.partecima{
+    background-image: url(imgs.jpg);
+    background-size: cover;
+    height: 500px;
+
+}
+header{
+    color: aliceblue;
+    text-align:center;
+    margin-top: 80px;
+    font-size: 50px;
+    padding: 0 0 5px 0;
+
+}
+nav{
+    margin-left: 400px;
+    margin-top: 10px;
+
+}
+nav a{
+    padding:10px;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+nav a:hover{
+    color: gray;
+
+}
+.partecima p{
+    text-align: center;
+    font-size: 17px;
+    color: aliceblue;
+    margin-top: 20px;
+
+}
+hr{
+    width: 10%;
+    color: white;
+    margin-left: 400px;
+
+}
+.duas_colunas{
+    display: flex;
+
+}
+.primeira{
+    background-color: rgb(245,48, 48);
+    width: 475px;
+    height: 300px;
+
+}
+.primeira h2{
+    margin: 80px;
+
+}
+.primeira p{
+    color: white;
+
+}
+.segunda{
+    background-color: burlywood;
+    width: 475px;
+    height: 300px;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+
+}
+.duas_colunas p{
+    text-align: center;
+
+}
+.segunda h2{
+    color: brown;
+    margin-top: 80px;
+
+}
+.segunda p{
+    color: brown;
+
+}
+.parte3{
+    background-image: url(img2.jpg);
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+}
+.h1h1{
+    color: aliceblue;
+    text-align: center;
+    padding: 110px 0 5px 0;
+    font-size: 40px;
+
+}
+.parte3 p{
+    color: aliceblue;
+    padding-top: 20px;
+    font-size: 17px;
+
+}
+button{
+    background-color: transparent;
+    margin-top: 60px;
+    padding: 20px;
+    color: aliceblue;
+    border-color: aliceblue;
+
+}
+.par4{
+    display: flex;
+    padding-top: 29px;
+
+}
+.img1{
+    display: flex;
+    margin-left: 100px;
+
+}
+.test{
+    margin-left: 10px;
+
+}
+.par4{
+    display: flex;
+    padding-top: 29px;
+
+}
+.img1{
+    display: flex;
+    margin-left: 10px;
+
+}
+.test{
+    margin-left: 10px;
+
+}
+.test h3{
+    font-size: 22px;
+
+}
+.test p{
+    margin-top: 10px;
+    font-size: 15px;
+
+}
+.test2{
+    margin-left: 22px;
+}
+.test2 p{
+    margin-top: 10px;
+
+}
+.im2{
+    display: flex;
+    margin-left: 40px;
+
+}
+.par5{
+    display: flex;
+    margin-left: 40px;
+
+}
+.par5img{
+    padding: 0 0 20px 0;
+
+}
+.tudo{
+    background-color: rgb(218,210,199);
+
+}
+.rodape{
+    background-color: black;
+    height: 100px;
+
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
